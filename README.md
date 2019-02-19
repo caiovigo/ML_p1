@@ -1,5 +1,4 @@
-# ML_p1 - 
-Probably Interesting Data
+# ML_p1 - Probably Interesting Data
 
 This project was done by Caio Vigo & William Duncan.
 
